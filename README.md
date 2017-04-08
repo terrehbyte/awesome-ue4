@@ -18,9 +18,9 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
     - [3D Modeling and Tools](#3d-modeling-and-tools)
     - [Animations](#animations)
   - [Resources](#resources)
-  	- [Coding](#coding)
-	  - [Community](#community)
-	  - [Style and Conventions](#style-and-conventions)
+    - [Coding](#coding)
+    - [Community](#community)
+    - [Style and Conventions](#style-and-conventions)
 - [License](#license)
 
 ## Assets
