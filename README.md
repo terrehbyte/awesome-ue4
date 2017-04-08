@@ -16,8 +16,11 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [Awesome UE4](#awesome-ue4)
   - [Assets](#assets)
     - [3D Modeling and Tools](#3d-modeling-and-tools)
+    - [Analytics](#analytics)
     - [Animations](#animations)
+    - [Build](#build)
     - [Sample Projects](#sample-projects)
+    - [User Interface](#user-interface)
   - [Resources](#resources)
     - [Coding](#coding)
     - [Community](#community)
@@ -29,11 +32,24 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 ### 3D Modeling and Tools 
 - [ARTv1](https://www.unrealengine.com/marketplace/maya-tools) - Specialized tools and scripts for use with Autodesk Maya.
 
+### Analytics
+- [GameAnalytics Integration](https://github.com/GameAnalytics/GA-SDK-UNREAL) - Plugin for integrating with GameAnalytics services.
+
+### Audio
+- [FMOD UE4 Integration](http://www.fmod.org/documentation/#content/generated/engine_ue4/overview.html) - Plugin for integrating FMOD assets for realtime playback in-engine.
+- [Wwise Unreal Plug-in](https://www.audiokinetic.com/library/edge/?source=UE4&id=index.html) - Plugin for integrating Wwise assets for realtime playback in-engine.
+
 ### Animations
-- [Animation Starter Pack](https://www.unrealengine.com/marketplace/animation-starter-pack) - A basic set of locomotion animations.
+- [Animation Starter Pack](https://www.unrealengine.com/marketplace/animation-starter-pack) - A basic set of character animations for humanoid shooters.
+
+### Build
+- [LoadingScreen](https://github.com/ue4plugins/LoadingScreen) - Plugin for creating simple loading screens with movies and advice text.
 
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
+
+### User Interface
+- [BLUI](https://github.com/AaronShea/BLUI) - Plugin for authoring UI elements using HTML. Powered by Chromium.
 
 ## Resources
 
@@ -45,6 +61,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### Community
 - [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4!
+- [Community Content, Tools and Tutorials](https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials) - The community resources pool on the Unreal Engine forums.
 
 ### Style and Conventions
 - [UE4 Style Guide](https://github.com/Allar/ue4-style-guide) - A reference style guide for organizing and naming your project and code.
