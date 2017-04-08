@@ -12,8 +12,11 @@ run through when thinking through and formulating a contribution:
   - Example: `[Name](Link) - Description`
 - [ ] I have outlined the value of the thing in my pull request.
 
-Please limit the submission of paid assets to high-quality to a minimum to keep
-these resources as _accessible_ and helpful as possible.
+Please think twice when submitting paid assets. It'd be preferable to keep the
+number of paid assets to a minumum to keep things as _accessible_ and helpful as
+possible. This policy may shift towards maintaining a list of high-quality
+paid assets to reflect that. Part of that process will involve defining what
+_high-quality_ as much as possible.
 
 If you've got any questions, feel free to file it via the issue tracker or
 contact the maintainer privately via their listed e-mail address, if available.
