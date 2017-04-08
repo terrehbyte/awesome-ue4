@@ -48,6 +48,11 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
 
+### Scripting
+- [SkookumScript](http://skookumscript.com/unreal/) - Plugin for integrating SkookumScript as a scripting language.
+- [UETorch](https://github.com/facebook/UETorch) - Plugin for integrating Lua/Torch scripts for use with Torch, a scientific computing framework.
+- [Unreal.js](https://github.com/ncsoft/Unreal.js) - Plugin for integrating JavaScript as a scripting language.
+
 ### User Interface
 - [BLUI](https://github.com/AaronShea/BLUI) - Plugin for authoring UI elements using HTML. Powered by Chromium.
 
