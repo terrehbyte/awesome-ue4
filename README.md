@@ -17,6 +17,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
   - [Assets](#assets)
     - [3D Modeling and Tools](#3d-modeling-and-tools)
     - [Animations](#animations)
+    - [Sample Projects](#sample-projects)
   - [Resources](#resources)
     - [Coding](#coding)
     - [Community](#community)
@@ -31,6 +32,9 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 ### Animations
 - [Animation Starter Pack](https://www.unrealengine.com/marketplace/animation-starter-pack) - A basic set of locomotion animations.
 
+### Sample Projects
+- [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
+
 ## Resources
 
 ### Coding
@@ -41,9 +45,6 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### Community
 - [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4!
-
-### Complete Projects
-- [SciFi Hallway](https://www.unrealengine.com/marketplace/scifi-hallway) - An example of a Sci-Fi scene in UE4 with source assets provided.
 
 ### Style and Conventions
 - [UE4 Style Guide](https://github.com/Allar/ue4-style-guide) - A reference style guide for organizing and naming your project and code.
