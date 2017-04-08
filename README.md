@@ -18,6 +18,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
     - [3D Modeling and Tools](#3d-modeling-and-tools)
     - [Analytics](#analytics)
     - [Animations](#animations)
+    - [Audio](#audio)
     - [Build](#build)
     - [Sample Projects](#sample-projects)
     - [Scripting](#scripting)
@@ -37,12 +38,12 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 ### Analytics
 - [GameAnalytics Integration](https://github.com/GameAnalytics/GA-SDK-UNREAL) - Plugin for integrating with GameAnalytics services.
 
+### Animations
+- [Animation Starter Pack](https://www.unrealengine.com/marketplace/animation-starter-pack) - A basic set of character animations for humanoid shooters.
+
 ### Audio
 - [FMOD UE4 Integration](http://www.fmod.org/documentation/#content/generated/engine_ue4/overview.html) - Plugin for integrating FMOD assets for realtime playback in-engine.
 - [Wwise Unreal Plug-in](https://www.audiokinetic.com/library/edge/?source=UE4&id=index.html) - Plugin for integrating Wwise assets for realtime playback in-engine.
-
-### Animations
-- [Animation Starter Pack](https://www.unrealengine.com/marketplace/animation-starter-pack) - A basic set of character animations for humanoid shooters.
 
 ### Build
 - [LoadingScreen](https://github.com/ue4plugins/LoadingScreen) - Plugin for creating simple loading screens with movies and advice text.
@@ -70,8 +71,8 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [Unreal Engine 4 for Unity Developers](https://docs.unrealengine.com/latest/INT/GettingStarted/FromUnity/) - A mapping of Unity3D concepts to Unreal Engine 4 concepts.
 
 ### Community
-- [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4!
 - [Community Content, Tools and Tutorials](https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials) - The community resources pool on the Unreal Engine forums.
+- [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4!
 
 ### Style and Conventions
 - [UE4 Style Guide](https://github.com/Allar/ue4-style-guide) - A reference style guide for organizing and naming your project and code.
