@@ -20,7 +20,9 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
     - [Animations](#animations)
     - [Build](#build)
     - [Sample Projects](#sample-projects)
+    - [Scripting](#scripting)
     - [User Interface](#user-interface)
+    - [Utilities](#utilities)
   - [Resources](#resources)
     - [Coding](#coding)
     - [Community](#community)
@@ -55,6 +57,9 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### User Interface
 - [BLUI](https://github.com/AaronShea/BLUI) - Plugin for authoring UI elements using HTML. Powered by Chromium.
+
+### Utilities
+- [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin) - Plugin for integrating suppport for Renderdoc, a graphics debugging tool.
 
 ## Resources
 
