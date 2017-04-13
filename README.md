@@ -20,6 +20,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
     - [Animations](#animations)
     - [Audio](#audio)
     - [Build](#build)
+    - [Networking](#networking)
     - [Plugins](#plugins)
     - [Sample Projects](#sample-projects)
     - [Scripting](#scripting)
@@ -50,8 +51,11 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 ### Build
 - [LoadingScreen](https://github.com/ue4plugins/LoadingScreen) - Plugin for creating simple loading screens with movies and advice text.
 
+### Networking
+- [VaRest](https://github.com/ufna/VaRest) - A simple REST API client with support for automatic JSON deserialization.
+
 ### Plugins
-- [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - A wonderful runtime noise generation plugin using a variety of different noise generation algorithms, all based on the excellent [FastNoise from Auburns](https://github.com/Auburns/FastNoise).
+- [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - A runtime noise generation plugin based on the excellent [FastNoise from Auburns](https://github.com/Auburns/FastNoise).
 
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
