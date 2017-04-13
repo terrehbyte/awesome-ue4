@@ -34,10 +34,9 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 ## Assets
 
 ### 3D Modeling and Tools 
-- [ARTv1](https://www.unrealengine.com/marketplace/maya-tools) - Specialized tools and scripts for use with Autodesk Maya.\
-- [Creating Vector Fields](https://wiki.unrealengine.com/Creating_Vector_Fields_(Tutorial)) - Creating vector fields for VFX in UE4 (in Maya).
-- [VelocityGridExport](https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter) - A tool to export vector fields out of Houdini.
+- [ARTv1](https://www.unrealengine.com/marketplace/maya-tools) - Specialized tools and scripts for use with Autodesk Maya.
 - [Simple Fractures](http://techartadventures.com/simple-fractures/) - A simple tutorial on how to create a fractured mesh in Houdini (fractures which can later be used in the Destructible Editor).
+- [VelocityGridExport](https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter) - A tool to export vector fields out of Houdini.
 
 ### Analytics
 - [GameAnalytics Integration](https://github.com/GameAnalytics/GA-SDK-UNREAL) - Plugin for integrating with GameAnalytics services.
@@ -53,7 +52,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [LoadingScreen](https://github.com/ue4plugins/LoadingScreen) - Plugin for creating simple loading screens with movies and advice text.
 
 ### Plugins
-- [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - A wonderful runtime noise generation plugin using a variety of different noise generation algorithms, all based on the excellent [https://github.com/Auburns/FastNoise](FastNoise from Auburns).
+- [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - A wonderful runtime noise generation plugin using a variety of different noise generation algorithms, all based on the excellent [FastNoise from Auburns](https://github.com/Auburns/FastNoise).
 
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
@@ -68,7 +67,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### Utilities
 - [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin) - Plugin for integrating suppport for Renderdoc, a graphics debugging tool.
-- [CVar List with Explanations](http://www.kosmokleaner.de/ownsoft/UE4CVarBrowser.html) - A solid list of the Cvars available in UE4 with decent explanations of each.
+- [UE4 Console Variables and Commands](http://www.kosmokleaner.de/ownsoft/UE4CVarBrowser.html) - A solid list of the CVars available in UE4 with decent explanations of each.
 
 ## Resources
 
