@@ -35,7 +35,6 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### 3D Modeling and Tools 
 - [ARTv1](https://www.unrealengine.com/marketplace/maya-tools) - Specialized tools and scripts for use with Autodesk Maya.
-- [Simple Fractures](http://techartadventures.com/simple-fractures/) - A simple tutorial on how to create a fractured mesh in Houdini (fractures which can later be used in the Destructible Editor).
 - [VelocityGridExport](https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter) - A tool to export vector fields out of Houdini.
 
 ### Analytics
