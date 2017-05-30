@@ -55,6 +55,8 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [VaRest](https://github.com/ufna/VaRest) - A simple REST API client with support for automatic JSON deserialization.
 
 ### Plugins
+- [NVIDIA GameWorks](https://github.com/NvPhysX/UnrealEngine) - A fork of UE4 offering various integrations of NVIDIA's GameWorks package.
+  - Note: Your GitHub account must be a part of the [Epic Games organization](https://www.unrealengine.com/ue4-on-github) in order to view this.
 - [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - A runtime noise generation plugin based on the excellent [FastNoise from Auburns](https://github.com/Auburns/FastNoise).
 
 ### Sample Projects
