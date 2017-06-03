@@ -61,16 +61,19 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
+- [Unreal VR Template C++ Sample](https://github.com/sclark39/UE-VR-Code-Sample) - Reimplementation of the UE4 VR template in `C++`.
 
 ### Scripting
 - [SkookumScript](http://skookumscript.com/unreal/) - Plugin for integrating SkookumScript as a scripting language.
 - [UETorch](https://github.com/facebook/UETorch) - Plugin for integrating Lua/Torch scripts for use with Torch, a scientific computing framework.
 - [Unreal.js](https://github.com/ncsoft/Unreal.js) - Plugin for integrating JavaScript as a scripting language.
+- [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) - Plugin for integrating Python as a scripting language.
 
 ### User Interface
 - [BLUI](https://github.com/AaronShea/BLUI) - Plugin for authoring UI elements using HTML. Powered by Chromium.
 
 ### Utilities
+- [Joy Machine's Repo of _Things_](https://github.com/joymachinegames/joymachine-public) - Collection of modular gameplay scripts for UE4 and tools relating to game development.
 - [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin) - Plugin for integrating suppport for Renderdoc, a graphics debugging tool.
 - [UE4 Console Variables and Commands](http://www.kosmokleaner.de/ownsoft/UE4CVarBrowser.html) - A solid list of the CVars available in UE4 with decent explanations of each.
 
