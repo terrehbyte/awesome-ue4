@@ -1,36 +1,38 @@
 # Awesome UE4
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 This is a curated collection of articles, assets, and libraries that have
-been created for use with Unreal Engine 4.
+been created for use with Unreal Engine 4. These works should be free and
+accessible for anyone to use in their projects.
 
 Suggestions and recommendations are welcome to be filed via the GitHub issue
 tracker for this repository. For more information, see the
-[contribution guidelines](CONTRIBUTING.md).
+[contribution guidelines](CONTRIBUTING.md). Thanks to everyone that has
+contributed to this list [in the past](graphs/contributors)!
 
-Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
+This list is inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 [awesome-design](https://github.com/gztchan/awesome-design),
 [awesome-cpp](https://github.com/fffaraz/awesome-cpp).
 
-**Contents**
+## Contents
 
-- [Awesome UE4](#awesome-ue4)
-  - [Assets](#assets)
-    - [3D Modeling and Tools](#3d-modeling-and-tools)
-    - [Analytics](#analytics)
-    - [Animations](#animations)
-    - [Audio](#audio)
-    - [Build](#build)
-    - [Networking](#networking)
-    - [Plugins](#plugins)
-    - [Sample Projects](#sample-projects)
-    - [Scripting](#scripting)
-    - [User Interface](#user-interface)
-    - [Utilities](#utilities)
-  - [Resources](#resources)
-    - [Coding](#coding)
-    - [Community](#community)
-    - [Style and Conventions](#style-and-conventions)
-- [License](#license)
+- [Assets](#assets)
+  - [3D Modeling and Tools](#3d-modeling-and-tools)
+  - [Analytics](#analytics)
+  - [Animations](#animations)
+  - [Audio](#audio)
+  - [Build](#build)
+  - [Networking](#networking)
+  - [Plugins](#plugins)
+  - [Sample Projects](#sample-projects)
+  - [Scripting](#scripting)
+  - [User Interface](#user-interface)
+  - [Utilities](#utilities)
+- [Resources](#resources)
+  - [Coding](#coding)
+  - [Community](#community)
+  - [Style and Conventions](#style-and-conventions)
 
 ## Assets
 
