@@ -36,6 +36,8 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### 3D Modeling and Tools 
 - [ARTv1](https://www.unrealengine.com/marketplace/maya-tools) - Specialized tools and scripts for use with Autodesk Maya.
+- [ARTv2](https://github.com/EpicGames/ARTv2) - Experimental scripts for skeleton, rig, and animation authoring in Autodesk Maya.
+  - Note: Your GitHub account must be a part of the [Epic Games organization](https://www.unrealengine.com/ue4-on-github) in order to view this.
 - [VelocityGridExport](https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter) - A tool to export vector fields out of Houdini.
 
 ### Analytics
