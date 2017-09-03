@@ -59,6 +59,9 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 ### Plugins
 - [NVIDIA GameWorks](https://github.com/NvPhysX/UnrealEngine) - A fork of UE4 offering various integrations of NVIDIA's GameWorks package.
   - Note: Your GitHub account must be a part of the [Epic Games organization](https://www.unrealengine.com/ue4-on-github) in order to view this.
+- [UE4GitPlugin](https://github.com/SRombauts/UE4GitPlugin) - Integrates Git as a source control provider.
+  - The initial release, v1, was integrated into the engine in engine version 4.7.
+- [UE4PlasticPlugin](https://github.com/SRombauts/UE4PlasticPlugin) - Integrates PlasticSCM as a source control provider.
 - [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - A runtime noise generation plugin based on the excellent [FastNoise from Auburns](https://github.com/Auburns/FastNoise).
 
 ### Sample Projects
