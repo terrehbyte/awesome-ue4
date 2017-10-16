@@ -67,6 +67,9 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [UE4 RTS](https://github.com/npruehs/ue4-rts) - A Real-time strategy plugin and showcase for Unreal Engine 4. 
 - [Articy Importer for Unreal](https://github.com/ArticySoftware/ArticyImporterForUnreal) - Articy Importer plugin for the Unreal Engine 4. 
 - [Marching Cubes](https://github.com/Phyronnaz/MarchingCubes) - A voxel plugin for Unreal Engine.
+- [Brune Save System](https://github.com/MJBrune/BrunesSaveSystem-UE4Plugin) - A simple and open source save system for UE4. Geared towards large single player RPGs.
+- [BrunesMissionSystem](https://github.com/MJBrune/BrunesMissionSystem-UE4Plugin) - A mission system that will handle the complexities laid out in the gdc 2017 talk: [Building Non-linear Narratives in 'Horizon: Zero Dawn](https://www.gdcvault.com/play/1024158/Building-Non-linear-Narratives-in)
+- [BrunesCharacterSystem](https://github.com/MJBrune/BrunesCharacterSystem-UE4Plugin) - A character system from simple saving and loading to dynamic narrative death and life of a character.
 
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
