@@ -63,6 +63,10 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
   - The initial release, v1, was integrated into the engine in engine version 4.7.
 - [UE4PlasticPlugin](https://github.com/SRombauts/UE4PlasticPlugin) - Integrates PlasticSCM as a source control provider.
 - [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - A runtime noise generation plugin based on the excellent [FastNoise from Auburns](https://github.com/Auburns/FastNoise).
+- [Cover Generator](https://github.com/Deams51/CoverGenerator-UE4) - A dynamic cover point generator plugin for Unreal Engine 4.
+- [UE4 RTS](https://github.com/npruehs/ue4-rts) - A Real-time strategy plugin and showcase for Unreal Engine 4. 
+- [Articy Importer for Unreal](https://github.com/ArticySoftware/ArticyImporterForUnreal) - Articy Importer plugin for the Unreal Engine 4. 
+- [Marching Cubes](https://github.com/Phyronnaz/MarchingCubes) - A voxel plugin for Unreal Engine.
 
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
