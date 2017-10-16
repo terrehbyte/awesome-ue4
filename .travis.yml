@@ -5,7 +5,7 @@
     "gem install awesome_bot"
   ],
   "script": [
-    "awesome_bot README.md --allow-dupe --allow-redirect --white-list creativecommons,travis-ci.org,github.com/EpicGames/"
+    "awesome_bot README.md --allow-dupe --allow-redirect --white-list creativecommons,travis-ci.org,github.com/EpicGames/,github.com/NvPhysX/"
   ],
   "group": "stable",
   "os": "linux"
