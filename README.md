@@ -18,6 +18,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
     - [3D Modeling and Tools](#3d-modeling-and-tools)
     - [Analytics](#analytics)
     - [Animations](#animations)
+    - [Artificial Intelligence](#artificial-intelligence)
     - [Audio](#audio)
     - [Build](#build)
     - [Editor Extensions](#editor-extensions)
@@ -35,10 +36,9 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ## Assets
 
-### 3D Modeling and Tools 
+### 3D Modeling and Tools
 - [ARTv1](https://www.unrealengine.com/marketplace/maya-tools) - Specialized tools and scripts for use with Autodesk Maya.
-- [ARTv2](https://github.com/EpicGames/ARTv2) - Experimental scripts for skeleton, rig, and animation authoring in Autodesk Maya.
-  - Note: Your GitHub account must be a part of the [Epic Games organization](https://www.unrealengine.com/ue4-on-github) in order to view this.
+- [ARTv2](https://www.jeremyernst.com/artv2) - Experimental scripts for skeleton, rig, and animation authoring in Autodesk Maya.
 - [VelocityGridExport](https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter) - A tool to export vector fields out of Houdini.
 
 ### Analytics
@@ -46,6 +46,9 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### Animations
 - [Animation Starter Pack](https://www.unrealengine.com/marketplace/animation-starter-pack) - A basic set of character animations for humanoid shooters.
+
+### Artificial Intelligence
+- [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - Train and use TensorFlow in your UE4 project
 
 ### Audio
 - [FMOD UE4 Integration](http://www.fmod.org/documentation/#content/generated/engine_ue4/overview.html) - Plugin for integrating FMOD assets for realtime playback in-engine.
@@ -73,13 +76,10 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [Unreal VR Template C++ Sample](https://github.com/sclark39/UE-VR-Code-Sample) - Reimplementation of the UE4 VR template in `C++`.
 
 ### Scripting
-- [SkookumScript](http://skookumscript.com/unreal/) - Plugin for integrating SkookumScript as a scripting language.
+- [SkookumScript](https://github.com/EpicSkookumScript/SkookumScript-Plugin) - Plugin for integrating SkookumScript as a scripting language.
 - [UETorch](https://github.com/facebook/UETorch) - Plugin for integrating Lua/Torch scripts for use with Torch, a scientific computing framework.
 - [Unreal.js](https://github.com/ncsoft/Unreal.js) - Plugin for integrating JavaScript as a scripting language.
 - [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) - Plugin for integrating Python as a scripting language.
-
-### User Interface
-- [BLUI](https://github.com/AaronShea/BLUI) - Plugin for authoring UI elements using HTML. Powered by Chromium.
 
 ### Utilities
 - [Joy Machine's Repo of _Things_](https://github.com/joymachinegames/joymachine-public) - Collection of modular gameplay scripts for UE4 and tools relating to game development.
@@ -99,8 +99,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [Community Content, Tools and Tutorials](https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials) - The community resources pool on the Unreal Engine forums.
 - [Unreal C++](https://unrealcpp.com/) - A large collection of tutorials covering common features implemented in C++
   - [Harrison/unrealcpp](https://github.com/Harrison1/unrealcpp) contains source code for all of the tutorials contained above
-- [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4!
-- [Tim Hobson's Knowledge Chest](http://timhobsonue4.snappages.com/tutorials.htm) - Great tutorials on a variety of topics.
+- [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4
 
 ### Style and Conventions
 - [UE4 Style Guide](https://github.com/Allar/ue4-style-guide) - A reference style guide for organizing and naming your project and code.
