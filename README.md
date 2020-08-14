@@ -53,12 +53,15 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 ### Build
 - [LoadingScreen](https://github.com/ue4plugins/LoadingScreen) - Plugin for creating simple loading screens with movies and advice text.
 
-### Networking
-- [VaRest](https://github.com/ufna/VaRest) - A simple REST API client with support for automatic JSON deserialization.
-
-### Plugins
+### Forks
 - [NVIDIA GameWorks](https://github.com/NvPhysX/UnrealEngine) - A fork of UE4 offering various integrations of NVIDIA's GameWorks package.
   - Note: Your GitHub account must be a part of the [Epic Games organization](https://www.unrealengine.com/ue4-on-github) in order to view this.
+
+### Networking
+- [TwitchAuth](https://github.com/fivefingergames/TwitchAuth) - In-game Twitch authentication plugin
+- [VaRest](https://github.com/ufna/VaRest) - A simple REST API client with support for automatic JSON deserialization.
+
+### Editor Extensions
 - [UE4GitPlugin](https://github.com/SRombauts/UE4GitPlugin) - Integrates Git as a source control provider.
   - The initial release, v1, was integrated into the engine in engine version 4.7.
 - [UE4PlasticPlugin](https://github.com/SRombauts/UE4PlasticPlugin) - Integrates PlasticSCM as a source control provider.
@@ -93,6 +96,8 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### Community
 - [Community Content, Tools and Tutorials](https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials) - The community resources pool on the Unreal Engine forums.
+- [Unreal C++](https://unrealcpp.com/) - A large collection of tutorials covering common features implemented in C++
+  - [Harrison/unrealcpp](https://github.com/Harrison1/unrealcpp) contains source code for all of the tutorials contained above
 - [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4!
 - [Tim Hobson's Knowledge Chest](http://timhobsonue4.snappages.com/tutorials.htm) - Great tutorials on a variety of topics.
 
