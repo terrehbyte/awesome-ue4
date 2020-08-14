@@ -23,6 +23,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
     - [Build](#build)
     - [Editor Extensions](#editor-extensions)
     - [Forks](#forks)
+    - [Gameplay](#gameplay)
     - [Networking](#networking)
     - [Sample Projects](#sample-projects)
     - [Scripting](#scripting)
@@ -61,7 +62,12 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [NVIDIA GameWorks](https://github.com/NvPhysX/UnrealEngine) - A fork of UE4 offering various integrations of NVIDIA's GameWorks package.
   - Note: Your GitHub account must be a part of the [Epic Games organization](https://www.unrealengine.com/ue4-on-github) in order to view this.
 
+### Gameplay
+- [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) - Dark Souls inspired lock-on/targeting system for cameras
+- [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - Recreation of HL2 movement in UE4 (from Project Borealis)
+
 ### Networking
+- [PingPlugin](https://github.com/DescendentStudios/PingPlugin) - ICMP ping hosts with Blueprint nodes
 - [TwitchAuth](https://github.com/fivefingergames/TwitchAuth) - In-game Twitch authentication plugin
 - [VaRest](https://github.com/ufna/VaRest) - A simple REST API client with support for automatic JSON deserialization.
 
@@ -73,6 +79,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
+- [Epic Survival Game Series](https://github.com/tomlooman/EpicSurvivalGameSeries) - C++-based survival game project - completed version of [Tom Looman's tutorial](https://www.tomlooman.com/survival-sample-game-for-ue4/section-one/)
 
 ### Scripting
 - [SkookumScript](https://github.com/EpicSkookumScript/SkookumScript-Plugin) - Plugin for integrating SkookumScript as a scripting language.
@@ -80,14 +87,18 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) - Plugin for integrating Python as a scripting language.
 
 ### Utilities
+- [BlueprintUE](https://blueprintue.com/) - Paste and share UE Blueprints with others (like Pastebin, but for your Blueprints)
 - [Joy Machine's Repo of _Things_](https://github.com/joymachinegames/joymachine-public) - Collection of modular gameplay scripts for UE4 and tools relating to game development.
+- [UE4 Console Variables and Commands](https://digilander.libero.it//ZioYuri78/) - Quick reference for CVars and Commands available in stock UE4 with help text
 
 ## Resources
 
 ### Coding
 - [C++ Coding Standard](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html) - The Epic Games C++ Coding Standard.
 - [Gameplay Framework Reference](https://docs.unrealengine.com/latest/INT/Gameplay/Framework/QuickReference/index.html) - A high-level view of the concepts you'll work with in UE4.
+- [GASContent](https://github.com/Pantong51/GASContent) - Collection of notes and references for working with UE4's Gameplay Ability System
 - [Setting Up Visual Studio for UE4](https://docs.unrealengine.com/latest/INT/Programming/Development/VisualStudioSetup/index.html) - A guide for installing and configuring the advanced Unreal Build Tool. (UBT)
+- [ue4-gitignore](https://github.com/MOZGIII/ue4-gitignore) - Example `.gitignore`, `.gitattributes` configuration for UE4 development with Git LFS
 - [Unreal Engine 4 for Unity Developers](https://docs.unrealengine.com/latest/INT/GettingStarted/FromUnity/) - A mapping of Unity3D concepts to Unreal Engine 4 concepts.
 - [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/2017/02/14/multiplayer-network-compendium/) - A guide for authoring networked gameplay in Unreal.
 
@@ -95,7 +106,10 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [Community Content, Tools and Tutorials](https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials) - The community resources pool on the Unreal Engine forums.
 - [Unreal C++](https://unrealcpp.com/) - A large collection of tutorials covering common features implemented in C++
   - [Harrison/unrealcpp](https://github.com/Harrison1/unrealcpp) contains source code for all of the tutorials contained above
+- [Unreal Development Guides and Tips](https://github.com/JaredP94/Unreal-Development-Guides-and-Tips) - Collection of tutorials from basic to optimizing your code and your development workflow with UE4
 - [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4
+- [Reuben Ward](https://www.youtube.com/c/ReubenWardTutorials/) - Reuben provides both short and long-form tutorials covering a variety of topics involving gameplay and related systems
+- [Tom Looman](https://www.tomlooman.com/) - Tom's blog provides a mixture of tutorials and personal development updates on the work he's doing
 
 ### Style and Conventions
 - [UE4 Style Guide](https://github.com/Allar/ue4-style-guide) - A reference style guide for organizing and naming your project and code.
