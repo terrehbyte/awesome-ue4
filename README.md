@@ -31,7 +31,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
     - [Utilities](#utilities)
   - [Resources](#resources)
     - [Coding](#coding)
-    - [Community](#community)
+    - [General](#general)
     - [Style and Conventions](#style-and-conventions)
 - [License](#license)
 
@@ -67,6 +67,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - Recreation of HL2 movement in UE4 (from Project Borealis)
 
 ### Networking
+- [Epic Online Services](https://dev.epicgames.com/en-US/services) - Leverage Epic's game services for your own game (e.g. analytics, player data, player help desk, matchmaking)
 - [PingPlugin](https://github.com/DescendentStudios/PingPlugin) - ICMP ping hosts with Blueprint nodes
 - [TwitchAuth](https://github.com/fivefingergames/TwitchAuth) - In-game Twitch authentication plugin
 - [VaRest](https://github.com/ufna/VaRest) - A simple REST API client with support for automatic JSON deserialization.
@@ -102,18 +103,19 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [Unreal Engine 4 for Unity Developers](https://docs.unrealengine.com/latest/INT/GettingStarted/FromUnity/) - A mapping of Unity3D concepts to Unreal Engine 4 concepts.
 - [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/2017/02/14/multiplayer-network-compendium/) - A guide for authoring networked gameplay in Unreal.
 
-### Community
+### General
 - [Community Content, Tools and Tutorials](https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials) - The community resources pool on the Unreal Engine forums.
 - [Unreal C++](https://unrealcpp.com/) - A large collection of tutorials covering common features implemented in C++
   - [Harrison/unrealcpp](https://github.com/Harrison1/unrealcpp) contains source code for all of the tutorials contained above
 - [Unreal Development Guides and Tips](https://github.com/JaredP94/Unreal-Development-Guides-and-Tips) - Collection of tutorials from basic to optimizing your code and your development workflow with UE4
+- [Unreal Engine Blog](https://www.unrealengine.com/en-US/feed/all) - Main feed for all news relating to Unreal Engine
+  - [Unreal Engine Technology](https://www.unrealengine.com/en-US/feed/tech-blog) - Deep-dives and technical showcases on features or strategies used by select studios
 - [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4
 - [Reuben Ward](https://www.youtube.com/c/ReubenWardTutorials/) - Reuben provides both short and long-form tutorials covering a variety of topics involving gameplay and related systems
 - [Tom Looman](https://www.tomlooman.com/) - Tom's blog provides a mixture of tutorials and personal development updates on the work he's doing
 
 ### Style and Conventions
 - [UE4 Style Guide](https://github.com/Allar/ue4-style-guide) - A reference style guide for organizing and naming your project and code.
-- [User Submitted Art Specifications for UE4-based Games](https://wiki.unrealengine.com/User_Submitted_Art_Specifications) - A reference art specification for artists.
 
 # License
 
