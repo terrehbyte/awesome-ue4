@@ -51,7 +51,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - Train and use TensorFlow in your UE4 project
 
 ### Audio
-- [FMOD UE4 Integration](http://www.fmod.org/documentation/#content/generated/engine_ue4/overview.html) - Plugin for integrating FMOD assets for realtime playback in-engine.
+- [FMOD UE4 Integration](https://www.fmod.com/resources/documentation-ue4?version=2.1&page=welcome.html) - Plugin for integrating FMOD assets for realtime playback in-engine.
 - [Wwise Unreal Plug-in](https://www.audiokinetic.com/library/edge/?source=UE4&id=index.html) - Plugin for integrating Wwise assets for realtime playback in-engine.
 
 ### Build
@@ -73,18 +73,14 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
-- [Unreal VR Template C++ Sample](https://github.com/sclark39/UE-VR-Code-Sample) - Reimplementation of the UE4 VR template in `C++`.
 
 ### Scripting
 - [SkookumScript](https://github.com/EpicSkookumScript/SkookumScript-Plugin) - Plugin for integrating SkookumScript as a scripting language.
-- [UETorch](https://github.com/facebook/UETorch) - Plugin for integrating Lua/Torch scripts for use with Torch, a scientific computing framework.
 - [Unreal.js](https://github.com/ncsoft/Unreal.js) - Plugin for integrating JavaScript as a scripting language.
 - [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) - Plugin for integrating Python as a scripting language.
 
 ### Utilities
 - [Joy Machine's Repo of _Things_](https://github.com/joymachinegames/joymachine-public) - Collection of modular gameplay scripts for UE4 and tools relating to game development.
-- [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin) - Plugin for integrating suppport for Renderdoc, a graphics debugging tool.
-- [UE4 Console Variables and Commands](http://www.kosmokleaner.de/ownsoft/UE4CVarBrowser.html) - A solid list of the CVars available in UE4 with decent explanations of each.
 
 ## Resources
 
