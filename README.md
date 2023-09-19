@@ -99,6 +99,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [Gameplay Framework Reference](https://docs.unrealengine.com/latest/INT/Gameplay/Framework/QuickReference/index.html) - A high-level view of the concepts you'll work with in UE4.
 - [GASContent](https://github.com/Pantong51/GASContent) - Collection of notes and references for working with UE4's Gameplay Ability System
 - [Setting Up Visual Studio for UE4](https://docs.unrealengine.com/latest/INT/Programming/Development/VisualStudioSetup/index.html) - A guide for installing and configuring the advanced Unreal Build Tool. (UBT)
+- [SubsystemBrowserPlugin](https://github.com/aquanox/SubsystemBrowserPlugin) - Exposes subsystem properties to the editor
 - [ue4-gitignore](https://github.com/MOZGIII/ue4-gitignore) - Example `.gitignore`, `.gitattributes` configuration for UE4 development with Git LFS
 - [Unreal Engine 4 for Unity Developers](https://docs.unrealengine.com/latest/INT/GettingStarted/FromUnity/) - A mapping of Unity3D concepts to Unreal Engine 4 concepts.
 - [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/2017/02/14/multiplayer-network-compendium/) - A guide for authoring networked gameplay in Unreal.
