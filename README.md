@@ -108,6 +108,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [Community Content, Tools and Tutorials](https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials) - The community resources pool on the Unreal Engine forums.
 - [Unreal C++](https://unrealcpp.com/) - A large collection of tutorials covering common features implemented in C++
   - [Harrison/unrealcpp](https://github.com/Harrison1/unrealcpp) contains source code for all of the tutorials contained above
+- [UE4 Cpp Examples](https://github.com/orfeasel/UE4-Cpp-Tutorials) - A large Git repo containing multiple different UE4 C++ projects and tutorials
 - [Unreal Development Guides and Tips](https://github.com/JaredP94/Unreal-Development-Guides-and-Tips) - Collection of tutorials from basic to optimizing your code and your development workflow with UE4
 - [Unreal Engine Blog](https://www.unrealengine.com/en-US/feed/all) - Main feed for all news relating to Unreal Engine
   - [Unreal Engine Technology](https://www.unrealengine.com/en-US/feed/tech-blog) - Deep-dives and technical showcases on features or strategies used by select studios
