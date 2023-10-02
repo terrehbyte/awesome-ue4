@@ -71,6 +71,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [PingPlugin](https://github.com/DescendentStudios/PingPlugin) - ICMP ping hosts with Blueprint nodes
 - [TwitchAuth](https://github.com/fivefingergames/TwitchAuth) - In-game Twitch authentication plugin
 - [VaRest](https://github.com/ufna/VaRest) - A simple REST API client with support for automatic JSON deserialization.
+- [Fetch](https://github.com/GameDev4K/unreal-fetch) - Fetch - A Simple HTTP Client for Blueprints
 
 ### Editor Extensions
 - [UE4GitPlugin](https://github.com/SRombauts/UE4GitPlugin) - Integrates Git as a source control provider.
