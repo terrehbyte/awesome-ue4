@@ -65,6 +65,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 ### Gameplay
 - [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) - Dark Souls inspired lock-on/targeting system for cameras
 - [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - Recreation of HL2 movement in UE4 (from Project Borealis)
+- [OpenLand](https://github.com/GameDev4K/unreal-open-land) - An OpenSource Unreal Landscape Auto Material
 
 ### Networking
 - [Epic Online Services](https://dev.epicgames.com/en-US/services) - Leverage Epic's game services for your own game (e.g. analytics, player data, player help desk, matchmaking)
