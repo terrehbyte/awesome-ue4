@@ -114,6 +114,7 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [UnrealSlackers](http://unrealslackers.org/) - A Discord community of individuals working in UE4
 - [Reuben Ward](https://www.youtube.com/c/ReubenWardTutorials/) - Reuben provides both short and long-form tutorials covering a variety of topics involving gameplay and related systems
 - [Tom Looman](https://www.tomlooman.com/) - Tom's blog provides a mixture of tutorials and personal development updates on the work he's doing
+- [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game development (art, audio, code, production).
 
 ### Style and Conventions
 - [UE4 Style Guide](https://github.com/Allar/ue4-style-guide) - A reference style guide for organizing and naming your project and code.
